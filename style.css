@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.search {
+    margin: 10px 0px 20px 10px;
+}
+.search > input {
+    width: 70vw;
+    height: 30px;
+}
+.search > button {
+    width: 25vw;
+    height: 30px;
+    font-size: 18px;
+    box-shadow: 5px 10px;
+}
+.content {
+    display: flex;
+    height: 1000vh;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin: 0px 10px;
+}
+.box {
+    min-width: 300px;
+    align-items: flex-start;
+    height: 150px;
+    background-color: blueviolet;
+}
