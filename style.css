@@ -18,7 +18,7 @@
 }
 .content {
     display: flex;
-    height: 1000vh;
+    height: 100vh;
     flex-wrap: wrap;
     gap: 10px;
     justify-content: center;
